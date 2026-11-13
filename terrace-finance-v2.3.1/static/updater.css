@@ -1,0 +1,31 @@
+/* Version 2.3 update console — same navy / mint design language as V2.0 */
+.update-shell{display:grid;gap:22px;max-width:1500px;margin:0 auto;padding-bottom:36px}
+.update-hero{display:flex;gap:18px;align-items:flex-start;background:linear-gradient(120deg,#f8fbff,#f2f8f5);border:1px solid #dfe8ec;border-radius:18px;padding:26px 28px}
+.update-hero h2{margin:0 0 8px;color:#223747;font-size:23px;letter-spacing:-.4px}
+.update-hero p{margin:0;color:#6a7e8c;line-height:1.6;max-width:760px}
+.update-icon{display:grid;place-items:center;width:48px;height:48px;border-radius:15px;background:#dcefe7;color:#247e64;flex-shrink:0}
+.update-icon svg{width:25px;height:25px}
+.update-section{display:grid;gap:22px}
+.update-stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.update-stat,.update-panel{background:white;border:1px solid #e2e8ed;border-radius:17px;box-shadow:0 5px 20px rgba(25,55,78,.035)}
+.update-stat{padding:21px;display:grid;gap:8px;min-width:0}
+.update-stat>span{font-size:12px;font-weight:700;color:#6d8190}
+.update-stat strong{font-size:21px;color:#203747;overflow-wrap:anywhere}
+.update-stat small{color:#8795a0;font-size:12px;line-height:1.4;overflow-wrap:anywhere}
+.update-positive{color:#248368}.update-negative{color:#b45a45}
+.update-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;align-items:stretch}
+.update-panel{padding:22px 24px;min-width:0}.update-panel h3{font-size:17px;color:#253b4c;margin:0 0 16px}
+.update-form{display:grid;gap:15px}.update-form label{display:grid;gap:8px;font-size:13px;font-weight:700;color:#5b7080}
+.update-form input,.update-form textarea{padding:11px 12px;min-height:44px;border:1px solid #d9e4ea;border-radius:10px;outline:none;width:100%;font-size:13px;font-family:inherit;color:#284052;resize:vertical}
+.update-form input:focus,.update-form textarea:focus{border-color:#30876b;box-shadow:0 0 0 3px #d7eee5}
+.update-form .btn{justify-self:start}.update-hint{font-size:12px;line-height:1.7;margin:0 0 16px}
+.update-current{display:grid;gap:5px;padding:16px;background:#f5f8fa;border-radius:12px}
+.update-current span{font-size:12px;color:#718494}.update-current strong{color:#203747;font-size:15px}.update-current small{font-size:12px;color:#8192a0}
+.update-release{min-height:40px;font-size:13px;line-height:1.5;margin:14px 0;color:#237b60}
+.update-actions{display:flex;flex-wrap:wrap;gap:10px}.update-actions .btn{white-space:normal}
+.update-backup{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:13px 0;border-bottom:1px solid #e8eef2}
+.update-backup:last-child{border-bottom:none}.update-backup>div{display:grid;gap:5px;min-width:0}
+.update-backup b{font-size:14px;color:#283f4e}.update-backup small{font-size:11px;color:#84929c;overflow-wrap:anywhere}
+.update-actions button:disabled,.update-panel button:disabled{opacity:.45;cursor:not-allowed}
+@media(max-width:1050px){.update-grid{grid-template-columns:1fr}.update-stats{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:670px){.update-stats{grid-template-columns:1fr}.update-hero{padding:20px}.update-panel{padding:20px}.update-backup{align-items:flex-start;flex-direction:column}}

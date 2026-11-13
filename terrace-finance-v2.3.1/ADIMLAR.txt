@@ -1,0 +1,8 @@
+Terrace Finance V2.3.1 TEST YAYINI
+1) ZIP'i acip terrace-finance-v2.3.1 klasorunu Masaustune tasiyin.
+2) Terminal: bash ~/Desktop/terrace-finance-v2.3.1/yayinla_mac.sh
+3) Sadece ~/TerraceRelease/public/packages/TerraceFinance_2.3.1_Mac.zip dosyasini GitHub'da packages/ klasorune yukleyin.
+4) Sadece ~/TerraceRelease/public/stable/manifest.json dosyasini GitHub'da stable/ klasorune yukleyin. Manifesti en son yukleyin.
+5) GitHub Pages'te stable/manifest.json yayinlandiktan sonra Terrace Finance > Guncellemeler > Yeni surumu kontrol et.
+6) Uygulamayi guncellemeden once kritik finans verilerinin bagimsiz yedegini alin.
+NOT: signing.key dosyasini veya data dizinini GitHub'a yuklemeyin.
