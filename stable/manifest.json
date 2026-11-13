@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "app": "terrace-finance",
+  "platform": "mac",
+  "channel": "stable",
+  "version": "2.3.1",
+  "min_version": "2.3.0",
+  "url": "https://recoly1919.github.io/terrace-finance-updates/packages/TerraceFinance_2.3.1_Mac.zip",
+  "sha256": "3cef50a07cf103ad89a57b5804dbedb89a7da4f2348b655663e154f5b93b8b51",
+  "size": 56478,
+  "notes": {
+    "tr": "İlk güvenli otomatik güncelleme testi ve sürüm göstergesi",
+    "zh": "首次安全自动更新测试与版本显示"
+  },
+  "signature": "KXwqCiAtd1uYxa74Cv/StzXmRTAmeQ6HnHLTO9CuWyRJhUreKww+zGH8U1ShxQCaIS8Xkp4wkYr6UMytfPOSBQ=="
+}
