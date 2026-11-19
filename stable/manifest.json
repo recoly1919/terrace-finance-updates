@@ -3,14 +3,14 @@
   "app": "terrace-finance",
   "platform": "mac",
   "channel": "stable",
-  "version": "2.3.1",
-  "min_version": "2.3.0",
-  "url": "https://recoly1919.github.io/terrace-finance-updates/packages/TerraceFinance_2.3.1_Mac.zip",
-  "sha256": "3cef50a07cf103ad89a57b5804dbedb89a7da4f2348b655663e154f5b93b8b51",
-  "size": 56478,
+  "version": "2.4.0",
+  "min_version": "2.3.1",
+  "url": "https://recoly1919.github.io/terrace-finance-updates/packages/TerraceFinance_2.4.0_Mac.zip",
+  "sha256": "b21699a8b3e314313bbe4fa55c68ba5c8ef61849d0c505ee3c077722c59b9e38",
+  "size": 65868,
   "notes": {
-    "tr": "İlk güvenli otomatik güncelleme testi ve sürüm göstergesi",
-    "zh": "首次安全自动更新测试与版本显示"
+    "tr": "Gelirler, sermaye, borç, alacaklar, nakit akışı ve Excel raporu",
+    "zh": "新增收入、资本、借款、应收款、现金流及 Excel 报表"
   },
-  "signature": "KXwqCiAtd1uYxa74Cv/StzXmRTAmeQ6HnHLTO9CuWyRJhUreKww+zGH8U1ShxQCaIS8Xkp4wkYr6UMytfPOSBQ=="
+  "signature": "J0xOuRXC0V+DvBMWeuXClwFQ9RZxJNNVavGN0wvio9iByW+itDyHc68ya4vbOgMh9uFC3V5mjvZFnkosFd81CA=="
 }
