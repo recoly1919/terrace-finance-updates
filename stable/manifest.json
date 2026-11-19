@@ -3,14 +3,14 @@
   "app": "terrace-finance",
   "platform": "mac",
   "channel": "stable",
-  "version": "2.4.0",
-  "min_version": "2.3.1",
-  "url": "https://recoly1919.github.io/terrace-finance-updates/packages/TerraceFinance_2.4.0_Mac.zip",
-  "sha256": "b21699a8b3e314313bbe4fa55c68ba5c8ef61849d0c505ee3c077722c59b9e38",
-  "size": 65868,
+  "version": "2.4.1",
+  "min_version": "2.4.0",
+  "url": "https://recoly1919.github.io/terrace-finance-updates/packages/TerraceFinance_2.4.1_Mac.zip",
+  "sha256": "f81686431827b5a85adbeaf58dc10e98cf8323e5ded71f86ccfe40c2b6fddaa6",
+  "size": 65947,
   "notes": {
-    "tr": "Gelirler, sermaye, borç, alacaklar, nakit akışı ve Excel raporu",
-    "zh": "新增收入、资本、借款、应收款、现金流及 Excel 报表"
+    "tr": "Aylık nakit akışı grafiğinden işlem geçmişine erişim ve tutar ipuçları",
+    "zh": "现金流柱形图可查看金额及打开当月收支记录"
   },
-  "signature": "J0xOuRXC0V+DvBMWeuXClwFQ9RZxJNNVavGN0wvio9iByW+itDyHc68ya4vbOgMh9uFC3V5mjvZFnkosFd81CA=="
+  "signature": "6YLsv/qlQJKhtMH6/UvZyYyrbJofg2cePTBmLhw+wtKlxHKCiiBRxFfzJpO1tUU5gqSIBHpL1LQH075K1gUSAg=="
 }
